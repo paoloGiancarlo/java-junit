@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * the Objective of this project was test some methods from
- * Doublelinkedlist before been implemented based in the documentation from
+ * Doublylinkedlist before been implemented based in the documentation from
  * Oracle website
  */
 @DisplayName("Test interface java.util.List implemented in java.util.LinkedList")
